@@ -13,3 +13,6 @@ curl -L https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.c
 
 This command works right away because we used `.gitkeep` to make sure that the `/data/raw` path exists without someone cloning the repo needing to re-create it.
 
+At the end of class we started talking about Docker. 
+
+![the Docker Drawing](resources/docker_drawing.png)

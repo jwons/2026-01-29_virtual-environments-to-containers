@@ -1,4 +1,4 @@
 *.csv
 .Rproj.user
 .Rprofile
-*.png
+output/*.png
